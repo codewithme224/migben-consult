@@ -95,7 +95,7 @@
               <div class="flex justify-center items-center mx-auto mb-8 w-28 h-28 bg-blue-500 rounded-3xl shadow-xl transition-transform duration-300 group-hover:scale-110">
                 <div class="text-4xl text-white">🌊</div>
               </div>
-              <h4 class="mb-4 text-3xl font-bold text-white">White Sea</h4>
+              <h4 class="mb-4 text-3xl font-bold text-white">White Sea Energy</h4>
               <p class="mb-6 text-lg leading-relaxed text-gray-200">Premium maritime logistics and shipping solutions across East African coastal regions</p>
               <div class="inline-flex items-center px-4 py-2 text-base font-semibold rounded-full text-gold-400 bg-white/10">
                 <span>Logistics Partner</span>
@@ -133,9 +133,9 @@
         
         <!-- Mobile Horizontal Scroll Container -->
         <div class="block md:hidden">
-          <div class="flex gap-4 overflow-x-auto pb-4 scrollbar-hide">
+          <div class="flex overflow-x-auto gap-4 pb-4 scrollbar-hide">
             <!-- Kenya -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/Kenya.png" alt="Kenya" class="object-contain w-full h-full" />
               </div>
@@ -144,7 +144,7 @@
             </div>
 
             <!-- Zimbabwe -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/Zimbabwe.png" alt="Zimbabwe" class="object-contain w-full h-full" />
               </div>
@@ -153,7 +153,7 @@
             </div>
 
             <!-- Cameroon -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/cameroon.png" alt="Cameroon" class="object-contain w-full h-full" />
               </div>
@@ -162,7 +162,7 @@
             </div>
 
             <!-- Uganda -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/uganda.png" alt="Uganda" class="object-contain w-full h-full" />
               </div>
@@ -171,7 +171,7 @@
             </div>
 
             <!-- South Africa -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/SA.png" alt="South Africa" class="object-contain w-full h-full" />
               </div>
@@ -180,7 +180,7 @@
             </div>
 
             <!-- Ghana -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/ghana.png" alt="Ghana" class="object-contain w-full h-full" />
               </div>
@@ -189,7 +189,7 @@
             </div>
 
             <!-- Liberia -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <div class="text-xl">🇱🇷</div>
               </div>
@@ -198,7 +198,7 @@
             </div>
 
             <!-- Holland -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <img src="/images/partners/holland.png" alt="Holland" class="object-contain w-full h-full" />
               </div>
@@ -207,7 +207,7 @@
             </div>
 
             <!-- London UK -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <div class="text-xl">🇬🇧</div>
               </div>
@@ -216,7 +216,7 @@
             </div>
 
             <!-- Australia -->
-            <div class="flex-shrink-0 p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20 w-32">
+            <div class="flex-shrink-0 p-4 w-32 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
               <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
                 <div class="text-xl">🇦🇺</div>
               </div>
@@ -227,95 +227,95 @@
         </div>
         
         <!-- Desktop Grid Layout -->
-        <div class="hidden md:grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
+        <div class="hidden grid-cols-1 gap-6 md:grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
           <!-- Kenya -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/Kenya.png" alt="Kenya" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Kenya</h4>
-            <p class="text-xs sm:text-sm text-gray-300">East Africa Hub</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Kenya</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">East Africa Hub</p>
           </div>
 
           <!-- Zimbabwe -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/Zimbabwe.png" alt="Zimbabwe" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Zimbabwe</h4>
-            <p class="text-xs sm:text-sm text-gray-300">Southern Africa</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Zimbabwe</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">Southern Africa</p>
           </div>
 
           <!-- Cameroon -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/cameroon.png" alt="Cameroon" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Cameroon</h4>
-            <p class="text-xs sm:text-sm text-gray-300">Central Africa</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Cameroon</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">Central Africa</p>
           </div>
 
           <!-- Uganda -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/uganda.png" alt="Uganda" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Uganda</h4>
-            <p class="text-xs sm:text-sm text-gray-300">East Africa</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Uganda</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">East Africa</p>
           </div>
 
           <!-- South Africa -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/SA.png" alt="South Africa" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">South Africa</h4>
-            <p class="text-xs sm:text-sm text-gray-300">Southern Africa Hub</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">South Africa</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">Southern Africa Hub</p>
           </div>
 
           <!-- Ghana -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/ghana.png" alt="Ghana" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Ghana</h4>
-            <p class="text-xs sm:text-sm text-gray-300">West Africa Hub</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Ghana</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">West Africa Hub</p>
           </div>
 
           <!-- Liberia -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <div class="text-xl sm:text-2xl">🇱🇷</div>
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Liberia</h4>
-            <p class="text-xs sm:text-sm text-gray-300">West Africa</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Liberia</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">West Africa</p>
           </div>
 
           <!-- Holland -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <img src="/images/partners/holland.png" alt="Holland" class="object-contain w-full h-full" />
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Holland</h4>
-            <p class="text-xs sm:text-sm text-gray-300">European Partner</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Holland</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">European Partner</p>
           </div>
 
           <!-- London UK -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <div class="text-xl sm:text-2xl">🇬🇧</div>
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">London UK</h4>
-            <p class="text-xs sm:text-sm text-gray-300">European Hub</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">London UK</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">European Hub</p>
           </div>
 
           <!-- Australia -->
-          <div class="p-4 sm:p-6 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
-            <div class="flex justify-center items-center p-2 mx-auto mb-3 sm:mb-4 w-12 h-12 sm:w-16 sm:h-16 bg-white rounded-xl shadow-lg transition-transform group-hover:scale-110">
+          <div class="p-4 text-center rounded-xl border backdrop-blur-sm transition-all duration-300 transform sm:p-6 group bg-white/10 hover:bg-white/20 hover:-translate-y-2 border-white/20">
+            <div class="flex justify-center items-center p-2 mx-auto mb-3 w-12 h-12 bg-white rounded-xl shadow-lg transition-transform sm:mb-4 sm:w-16 sm:h-16 group-hover:scale-110">
               <div class="text-xl sm:text-2xl">🇦🇺</div>
             </div>
-            <h4 class="mb-2 text-base sm:text-lg font-semibold text-white">Australia</h4>
-            <p class="text-xs sm:text-sm text-gray-300">Asia-Pacific Hub</p>
+            <h4 class="mb-2 text-base font-semibold text-white sm:text-lg">Australia</h4>
+            <p class="text-xs text-gray-300 sm:text-sm">Asia-Pacific Hub</p>
           </div>
         </div>
       </div>
