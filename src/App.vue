@@ -72,7 +72,7 @@ onMounted(() => {
     <Navigation />
     <HeroSection />
     <AboutSection />
-    <WorkflowSection />
+    <!-- <WorkflowSection /> -->
     <ServicesSection />
     <ProductsSection />
     <PartnersSection />
