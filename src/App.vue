@@ -30,11 +30,11 @@ onMounted(() => {
       <!-- Loading Animation Container -->
       <div class="text-center">
         <!-- Logo with Animation -->
-        <div class="mb-8 relative">
+        <div class="relative mb-8">
           <div class="animate-pulse-slow">
             <img 
-              class="h-32 w-auto mx-auto rounded-full shadow-2xl ring-4 ring-gold-500/50 animate-bounce-gentle" 
-              src="/images/logo2.png" 
+              class="mx-auto w-auto h-32 rounded-full ring-4 shadow-2xl ring-gold-500/50 animate-bounce-gentle" 
+              src="/images/logo3.png" 
               alt="MIGBEN Logo"
             />
           </div>
@@ -43,13 +43,13 @@ onMounted(() => {
           <div class="absolute inset-0 rounded-full border-4 border-transparent border-t-gold-400 animate-spin-slow"></div>
           
           <!-- Pulsing Glow -->
-          <div class="absolute inset-0 rounded-full bg-gold-400/20 animate-ping"></div>
+          <div class="absolute inset-0 rounded-full animate-ping bg-gold-400/20"></div>
         </div>
         
         <!-- Company Name with Typewriter Effect -->
         <div class="mb-6">
-          <h1 class="text-4xl md:text-5xl font-bold text-white mb-2 animate-fade-in-up">
-            <span class="bg-gold-gradient bg-clip-text text-transparent">MIGBEN</span>
+          <h1 class="mb-2 text-4xl font-bold text-white md:text-5xl animate-fade-in-up">
+            <span class="text-transparent bg-clip-text bg-gold-gradient">MIGBEN</span>
           </h1>
           <p class="text-lg text-gray-300 animate-fade-in-up-delay">
             LOGISTICS & CONSULTANCY
@@ -57,12 +57,12 @@ onMounted(() => {
         </div>
         
         <!-- Loading Bar -->
-        <div class="w-64 mx-auto bg-white/20 rounded-full h-2 overflow-hidden">
-          <div class="h-full bg-gold-gradient animate-loading-bar rounded-full"></div>
+        <div class="overflow-hidden mx-auto w-64 h-2 rounded-full bg-white/20">
+          <div class="h-full rounded-full bg-gold-gradient animate-loading-bar"></div>
         </div>
         
         <!-- Loading Text -->
-        <p class="text-gray-300 mt-4 animate-fade-in-up-delay-2">
+        <p class="mt-4 text-gray-300 animate-fade-in-up-delay-2">
           Loading your experience...
         </p>
       </div>
