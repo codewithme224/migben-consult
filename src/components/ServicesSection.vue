@@ -21,15 +21,19 @@
               alt="Energy Trading" 
               class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
             />
+            <!-- Glassmorphism Overlay -->
             <div class="absolute inset-0 bg-gradient-to-t from-primary-900/90 to-primary-900/30"></div>
+            <div class="absolute inset-0 backdrop-blur-[2px] bg-white/5"></div>
+            <div class="absolute inset-0 bg-gradient-to-br from-white/10 via-transparent to-black/20"></div>
+            
             <div class="absolute inset-0 flex items-center justify-center">
               <div class="text-center text-white">
-                <div class="w-16 h-16 mx-auto mb-4 bg-gold-gradient rounded-full flex items-center justify-center shadow-lg">
+                <div class="w-16 h-16 mx-auto mb-4 bg-gold-gradient rounded-full flex items-center justify-center shadow-lg backdrop-blur-sm border border-white/20">
                   <svg class="w-8 h-8 text-primary-900" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3z"/>
                   </svg>
                 </div>
-                <div class="bg-primary-900/80 backdrop-blur-sm rounded-xl p-4 border border-gold-500/30 w-100">
+                <div class="bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 shadow-2xl">
                   <div class="inline-block relative">
                     <h3 class="text-3xl font-bold text-white mb-2 drop-shadow-lg">
                       Energy <span class="bg-gold-gradient bg-clip-text text-transparent">Trading</span>
@@ -69,16 +73,20 @@
               alt="Logistics Services" 
               class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
             />
+            <!-- Glassmorphism Overlay -->
             <div class="absolute inset-0 bg-gradient-to-t from-primary-900/90 to-primary-900/30"></div>
+            <div class="absolute inset-0 backdrop-blur-[2px] bg-white/5"></div>
+            <div class="absolute inset-0 bg-gradient-to-br from-white/10 via-transparent to-black/20"></div>
+            
             <div class="absolute inset-0 flex items-center justify-center">
               <div class="text-center text-white">
-                <div class="w-16 h-16 mx-auto mb-4 bg-gold-gradient rounded-full flex items-center justify-center shadow-lg">
+                <div class="w-16 h-16 mx-auto mb-4 bg-gold-gradient rounded-full flex items-center justify-center shadow-lg backdrop-blur-sm border border-white/20">
                   <svg class="w-8 h-8 text-primary-900" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M8 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM15 16.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"/>
                     <path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1V5a1 1 0 00-1-1H3z"/>
                   </svg>
                 </div>
-                <div class="bg-primary-900/80 backdrop-blur-sm rounded-xl p-4 border border-gold-500/30 w-100">
+                <div class="bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 shadow-2xl">
                   <div class="inline-block relative">
                     <h3 class="text-3xl font-bold text-white mb-2 drop-shadow-lg">
                       Logistics <span class="bg-gold-gradient bg-clip-text text-transparent">Solutions</span>

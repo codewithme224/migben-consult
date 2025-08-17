@@ -6,7 +6,7 @@
         <!-- Company Info -->
         <div class="lg:col-span-2">
           <div class="flex items-center mb-6">
-            <img src="/images/logo.jpeg" alt="MIGBEN Logo" class="h-12 w-auto mr-4" />
+            <img src="/images/logo3.png" alt="MIGBEN Logo" class="h-12 w-auto mr-4" />
             <div>
               <h3 class="text-xl font-bold">MIGBEN</h3>
               <p class="text-gold-400 text-sm">Logistics & Consultancy</p>
@@ -88,14 +88,12 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="bg-primary-800 rounded-lg p-6">
             <h5 class="font-semibold text-white mb-2">South Africa Office</h5>
-            <p class="text-gray-300 text-sm mb-2">Willow Way 95, Penhill</p>
-            <p class="text-gray-300 text-sm mb-2">Cape Town - Western Cape, South Africa</p>
-            <p class="text-gold-400 text-sm">+27 73 7567 328</p>
+            <p class="text-gray-300 text-sm mb-2">93 Willow way , Penhill Estate , Cape Town , Western Cape, South Africa</p>
+            <p class="text-gold-400 text-sm">+27 639912356</p>
           </div>
           <div class="bg-primary-800 rounded-lg p-6">
             <h5 class="font-semibold text-white mb-2">Ghana Office</h5>
-            <p class="text-gray-300 text-sm mb-2">Alhaji Sulley Street</p>
-            <p class="text-gray-300 text-sm mb-2">Abelenkpe Taxi Rank - Accra, Ghana</p>
+            <p class="text-gray-300 text-sm mb-2">Abelenkpe Taxi Rank, Alhaji Sulley Street, Accra, Ghana</p>
             <p class="text-gold-400 text-sm">+233 545 741 449</p>
           </div>
         </div>

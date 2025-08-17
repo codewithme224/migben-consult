@@ -1,92 +1,92 @@
 <template>
-  <section id="home" class="relative min-h-screen flex items-center justify-center overflow-hidden bg-primary-900">
+  <section id="home" class="flex overflow-hidden relative justify-center items-center min-h-screen bg-primary-900">
 
     <!-- Animated Background Elements -->
     <div class="absolute inset-0 z-10">
-      <div class="absolute top-20 left-10 w-20 h-20 bg-gold-400/20 rounded-full animate-float"></div>
-      <div class="absolute top-40 right-20 w-16 h-16 bg-primary-400/20 rounded-full animate-float" style="animation-delay: 2s;"></div>
-      <div class="absolute bottom-40 left-20 w-12 h-12 bg-gold-300/20 rounded-full animate-float" style="animation-delay: 4s;"></div>
+      <div class="absolute left-10 top-20 w-20 h-20 rounded-full bg-gold-400/20 animate-float"></div>
+      <div class="absolute right-20 top-40 w-16 h-16 rounded-full bg-primary-400/20 animate-float" style="animation-delay: 2s;"></div>
+      <div class="absolute left-20 bottom-40 w-12 h-12 rounded-full bg-gold-300/20 animate-float" style="animation-delay: 4s;"></div>
     </div>
 
     <!-- Content -->
-    <div class="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center mt-10">
+    <div class="relative z-20 px-4 mx-auto mt-10 max-w-7xl text-center sm:px-6 lg:px-8">
       <div class="animate-fade-in">
         <!-- Company Logo -->
         <!-- <div class="mb-8">
           <img 
             src="/images/logo.jpeg" 
             alt="MIGBEN Logo" 
-            class="mx-auto h-24 w-auto md:h-32 animate-slide-up"
+            class="mx-auto w-auto h-24 md:h-32 animate-slide-up"
           />
         </div> -->
 
         <!-- Main Heading -->
-        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 animate-slide-up mt-5">
+        <h1 class="mt-10 mb-6 text-4xl font-bold text-white md:text-6xl lg:text-7xl animate-slide-up">
           <span class="block">MIGBEN</span>
-          <span class="block bg-gold-gradient bg-clip-text text-transparent">
+          <span class="block text-transparent bg-clip-text bg-gold-gradient">
             LOGISTICS & CONSULTANCY
           </span>
         </h1>
 
         <!-- Subtitle -->
-        <p class="text-xl md:text-2xl text-gray-200 mb-8 max-w-3xl mx-auto leading-relaxed animate-slide-up" style="animation-delay: 0.2s;">
+        <p class="mx-auto mb-8 max-w-3xl text-xl leading-relaxed text-gray-200 md:text-2xl animate-slide-up" style="animation-delay: 0.2s;">
           Global energy and commodity trading house specializing in structured procurement and strategic distribution of refined fuels
         </p>
 
         <!-- Key Services Pills -->
-        <div class="flex flex-wrap justify-center gap-4 mb-10 animate-slide-up" style="animation-delay: 0.4s;">
-          <span class="bg-white/10 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm font-medium border border-white/20">
+        <div class="flex flex-wrap gap-4 justify-center mb-10 animate-slide-up" style="animation-delay: 0.4s;">
+          <span class="px-4 py-2 text-sm font-medium text-white rounded-full border backdrop-blur-sm bg-white/10 border-white/20">
             Energy Trading
           </span>
-          <span class="bg-white/10 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm font-medium border border-white/20">
+          <span class="px-4 py-2 text-sm font-medium text-white rounded-full border backdrop-blur-sm bg-white/10 border-white/20">
             Logistics Solutions
           </span>
-          <span class="bg-white/10 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm font-medium border border-white/20">
+          <span class="px-4 py-2 text-sm font-medium text-white rounded-full border backdrop-blur-sm bg-white/10 border-white/20">
             Agricultural Commodities
           </span>
-          <span class="bg-white/10 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm font-medium border border-white/20">
+          <span class="px-4 py-2 text-sm font-medium text-white rounded-full border backdrop-blur-sm bg-white/10 border-white/20">
             Business Consultancy
           </span>
         </div>
 
         <!-- CTA Buttons -->
-        <div class="flex flex-col sm:flex-row gap-4 justify-center animate-slide-up" style="animation-delay: 0.6s;">
+        <div class="flex flex-col gap-4 justify-center sm:flex-row animate-slide-up" style="animation-delay: 0.6s;">
           <button
             @click="scrollToSection('#services')"
-            class="bg-gold-gradient text-primary-900 px-8 py-4 rounded-full text-lg font-semibold hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
+            class="px-8 py-4 text-lg font-semibold rounded-full transition-all duration-300 transform bg-gold-gradient text-primary-900 hover:shadow-2xl hover:scale-105"
           >
             Explore Our Services
           </button>
           <button
             @click="scrollToSection('#contact')"
-            class="border-2 border-white text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-white hover:text-gray-800 transition-all duration-300"
+            class="px-8 py-4 text-lg font-semibold text-white rounded-full border-2 border-white transition-all duration-300 hover:bg-white hover:text-gray-800"
           >
             Get In Touch
           </button>
         </div>
 
         <!-- Stats Section -->
-        <div class="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto animate-slide-up" style="animation-delay: 0.8s;">
-          <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-            <div class="text-3xl font-bold text-gold-400 mb-2">Global</div>
-            <div class="text-white text-sm">Trading Network</div>
+        <div class="grid grid-cols-1 gap-8 mx-auto mt-16 max-w-4xl md:grid-cols-3 animate-slide-up" style="animation-delay: 0.8s;">
+          <div class="p-6 rounded-xl border backdrop-blur-sm bg-white/10 border-white/20">
+            <div class="mb-2 text-3xl font-bold text-gold-400">Global</div>
+            <div class="text-sm text-white">Trading Network</div>
           </div>
-          <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-            <div class="text-3xl font-bold text-gold-400 mb-2">24/7</div>
-            <div class="text-white text-sm">Support Services</div>
+          <div class="p-6 rounded-xl border backdrop-blur-sm bg-white/10 border-white/20">
+            <div class="mb-2 text-3xl font-bold text-gold-400">24/7</div>
+            <div class="text-sm text-white">Support Services</div>
           </div>
-          <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-            <div class="text-3xl font-bold text-gold-400 mb-2">Expert</div>
-            <div class="text-white text-sm">Consultancy Team</div>
+          <div class="p-6 rounded-xl border backdrop-blur-sm bg-white/10 border-white/20">
+            <div class="mb-2 text-3xl font-bold text-gold-400">Expert</div>
+            <div class="text-sm text-white">Consultancy Team</div>
           </div>
         </div>
       </div>
     </div>
 
     <!-- Scroll Indicator -->
-    <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-20 animate-bounce">
-      <div class="w-6 h-10 border-2 border-white/50 rounded-full flex justify-center">
-        <div class="w-1 h-3 bg-white/70 rounded-full mt-2 animate-pulse"></div>
+    <div class="absolute bottom-8 left-1/2 z-20 animate-bounce transform -translate-x-1/2">
+      <div class="flex justify-center w-6 h-10 rounded-full border-2 border-white/50">
+        <div class="mt-2 w-1 h-3 rounded-full animate-pulse bg-white/70"></div>
       </div>
     </div>
   </section>

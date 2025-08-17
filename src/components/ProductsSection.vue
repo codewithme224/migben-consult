@@ -22,9 +22,13 @@
                 alt="Agricultural Commodities" 
                 class="w-full h-64 object-cover rounded-2xl group-hover:scale-105 transition-transform duration-300"
               />
+              <!-- Glassmorphism Overlay -->
               <div class="absolute inset-0 bg-gradient-to-t from-primary-900/60 to-transparent rounded-2xl"></div>
+              <div class="absolute inset-0 backdrop-blur-[2px] bg-white/5 rounded-2xl"></div>
+              <div class="absolute inset-0 bg-gradient-to-br from-white/10 via-transparent to-black/20 rounded-2xl"></div>
+              
               <div class="absolute bottom-4 left-4 right-4">
-                <div class="bg-primary-900/80 backdrop-blur-sm rounded-xl p-4 border border-gold-500/30">
+                <div class="bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 shadow-2xl">
                   <div class="inline-block relative">
                     <h3 class="text-3xl font-bold text-white mb-2 drop-shadow-lg">
                       Agricultural <span class="bg-gold-gradient bg-clip-text text-transparent">Commodities</span>
@@ -75,9 +79,13 @@
                 alt="Energy Products" 
                 class="w-full h-64 object-cover rounded-2xl group-hover:scale-105 transition-transform duration-300"
               />
+              <!-- Glassmorphism Overlay -->
               <div class="absolute inset-0 bg-gradient-to-t from-primary-900/60 to-transparent rounded-2xl"></div>
+              <div class="absolute inset-0 backdrop-blur-[2px] bg-white/5 rounded-2xl"></div>
+              <div class="absolute inset-0 bg-gradient-to-br from-white/10 via-transparent to-black/20 rounded-2xl"></div>
+              
               <div class="absolute bottom-4 left-4 right-4">
-                <div class="bg-primary-900/80 backdrop-blur-sm rounded-xl p-4 border border-gold-500/30">
+                <div class="bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 shadow-2xl">
                   <div class="inline-block relative">
                     <h3 class="text-3xl font-bold text-white mb-2 drop-shadow-lg">
                       Energy <span class="bg-gold-gradient bg-clip-text text-transparent">Products</span>

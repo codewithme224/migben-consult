@@ -12,7 +12,7 @@
       <div class="flex items-center space-x-8">
         <!-- Logo -->
         <div class="flex-shrink-0">
-          <img class="h-14 w-auto logo-visible transition-transform duration-300 hover:scale-110 rounded-full" src="/images/logo2.png" alt="MIGBEN Logo" />
+          <img class="h-14 w-auto logo-visible transition-transform duration-300 hover:scale-110 rounded-full" src="/images/logo3.png" alt="MIGBEN Logo" />
         </div>
 
         <!-- Desktop Navigation - Centered -->
@@ -119,6 +119,7 @@ const activeSection = ref('#home')
 const navigation = [
   { name: 'Home', href: '#home' },
   { name: 'About', href: '#about' },
+  { name: 'Workflow', href: '#workflow' },
   { name: 'Services', href: '#services' },
   { name: 'Products', href: '#products' },
   { name: 'Partners', href: '#partners' },

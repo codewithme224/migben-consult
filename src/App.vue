@@ -3,6 +3,7 @@ import { ref, onMounted } from 'vue'
 import Navigation from './components/Navigation.vue'
 import HeroSection from './components/HeroSection.vue'
 import AboutSection from './components/AboutSection.vue'
+import WorkflowSection from './components/WorkflowSection.vue'
 import ServicesSection from './components/ServicesSection.vue'
 import ProductsSection from './components/ProductsSection.vue'
 import PartnersSection from './components/PartnersSection.vue'
@@ -71,6 +72,7 @@ onMounted(() => {
     <Navigation />
     <HeroSection />
     <AboutSection />
+    <WorkflowSection />
     <ServicesSection />
     <ProductsSection />
     <PartnersSection />

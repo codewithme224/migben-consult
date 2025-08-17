@@ -6,6 +6,20 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        purple: {
+          100: 'rgb(243, 232, 255)',
+        },
+        blue: {
+          100: 'rgb(219, 234, 254)',
+        },
+        yellow: {
+          100: 'rgb(254, 249, 195)',
+        },
+        orange: {
+          100: 'rgb(255, 237, 213)',
+        },
+      },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',
         'slide-up': 'slideUp 0.6s ease-out',

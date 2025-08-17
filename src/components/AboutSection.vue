@@ -73,7 +73,7 @@
                 <!-- CEO Image -->
                 <div class="lg:w-1/3 relative overflow-hidden">
                   <img 
-                    src="/images/logo2.png" 
+                    src="/images/logo3.png" 
                     alt="CEO Kingsley Ofori Andoh" 
                     class="w-full h-80 lg:h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
@@ -118,7 +118,7 @@
                         </div>
                         <span class="text-white font-medium">Phone</span>
                       </div>
-                      <p class="text-gray-300 text-sm">+27 73 7567 328</p>
+                      <p class="text-gray-300 text-sm">+233 248604953 / +27 737567328</p>
                     </div>
                     
                     <div class="md:col-span-2 bg-primary-600/50 rounded-xl p-4 backdrop-blur-sm border border-gold-500/10">
@@ -130,7 +130,7 @@
                         </div>
                         <span class="text-white font-medium">Location</span>
                       </div>
-                      <p class="text-gray-300 text-sm">Willow Way 95, Penhill - Cape Town, Western Cape, South Africa</p>
+                      <p class="text-gray-300 text-sm">Ghana / South Africa</p>
                     </div>
                   </div>
                 </div>
@@ -143,22 +143,25 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
               <!-- Director 1 -->
               <div class="group bg-gradient-to-br from-primary-700 to-primary-800 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden border border-gold-500/20">
-                <div class="relative">
+                <div class="relative h-64 flex items-center justify-center bg-gradient-to-br from-primary-800 to-primary-900">
+                  <!-- Logo -->
                   <img 
-                    src="/images/director2.jpeg" 
-                    alt="Director Mignon Adine Dianne" 
-                    class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-300"
+                    src="/images/logo3.png" 
+                    alt="MIGBEN Logo" 
+                    class="w-32 h-32 object-cover rounded-full shadow-2xl ring-4 ring-gold-500/50 group-hover:scale-110 transition-all duration-300"
                   />
-                  <div class="absolute inset-0 bg-gradient-to-t from-primary-900/90 to-primary-900/20"></div>
+                  
+                  <!-- Hover Overlay with Name -->
+                  <div class="absolute inset-0 bg-primary-900/95 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300">
+                    <div class="text-center transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
+                      <h4 class="text-2xl font-bold text-white mb-2 drop-shadow-lg">Mignon Ofori Andoh</h4>
+                      <p class="text-gold-400 font-semibold text-lg">Director</p>
+                    </div>
+                  </div>
+                  
                   <div class="absolute top-4 right-4">
                     <div class="bg-gold-gradient text-primary-900 px-3 py-1 rounded-full text-xs font-bold">
                       Director
-                    </div>
-                  </div>
-                  <div class="absolute bottom-4 left-4 right-4">
-                    <div class="bg-primary-900/80 backdrop-blur-sm rounded-xl p-4 border border-gold-500/30">
-                      <h4 class="text-xl font-bold text-white mb-1 drop-shadow-lg">Mignon Adine Dianne</h4>
-                      <p class="text-gold-400 font-semibold text-sm">Director</p>
                     </div>
                   </div>
                 </div>
@@ -181,7 +184,7 @@
                           <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
                         </svg>
                       </div>
-                      <span class="text-gray-200 text-sm">+27 73 7567 328</span>
+                      <span class="text-gray-200 text-sm">+233 240690239 / +27 639912356</span>
                     </div>
                     
                     <div class="flex items-center p-3 bg-primary-600/30 rounded-lg hover:bg-primary-600/50 transition-colors">
@@ -190,7 +193,7 @@
                           <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
                         </svg>
                       </div>
-                      <span class="text-gray-200 text-sm">Cape Town, South Africa</span>
+                      <span class="text-gray-200 text-sm">93 Willow way , Penhill Estate , Cape Town , Western Cape, South Africa</span>
                     </div>
                   </div>
                 </div>
@@ -198,22 +201,25 @@
 
               <!-- Director 2 -->
               <div class="group bg-gradient-to-br from-primary-700 to-primary-800 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden border border-gold-500/20">
-                <div class="relative">
+                <div class="relative h-64 flex items-center justify-center bg-gradient-to-br from-primary-800 to-primary-900">
+                  <!-- Logo -->
                   <img 
-                    src="/images/director.jpeg" 
-                    alt="Director Robert Currie Opoku" 
-                    class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-300"
+                    src="/images/logo3.png" 
+                    alt="MIGBEN Logo" 
+                    class="w-32 h-32 object-cover rounded-full shadow-2xl ring-4 ring-gold-500/50 group-hover:scale-110 transition-all duration-300"
                   />
-                  <div class="absolute inset-0 bg-gradient-to-t from-primary-900/90 to-primary-900/20"></div>
+                  
+                  <!-- Hover Overlay with Name -->
+                  <div class="absolute inset-0 bg-primary-900/95 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300">
+                    <div class="text-center transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
+                      <h4 class="text-2xl font-bold text-white mb-2 drop-shadow-lg">Robert Currie Opoku</h4>
+                      <p class="text-gold-400 font-semibold text-lg">Director</p>
+                    </div>
+                  </div>
+                  
                   <div class="absolute top-4 right-4">
                     <div class="bg-gold-gradient text-primary-900 px-3 py-1 rounded-full text-xs font-bold">
                       Director
-                    </div>
-                  </div>
-                  <div class="absolute bottom-4 left-4 right-4">
-                    <div class="bg-primary-900/80 backdrop-blur-sm rounded-xl p-4 border border-gold-500/30">
-                      <h4 class="text-xl font-bold text-white mb-1 drop-shadow-lg">Robert Currie Opoku</h4>
-                      <p class="text-gold-400 font-semibold text-sm">Director</p>
                     </div>
                   </div>
                 </div>
@@ -236,7 +242,7 @@
                           <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
                         </svg>
                       </div>
-                      <span class="text-gray-200 text-sm">+233 545 741 449</span>
+                      <span class="text-gray-200 text-sm">+233 545 741449 / +233 500 000 139 </span>
                     </div>
                     
                     <div class="flex items-center p-3 bg-primary-600/30 rounded-lg hover:bg-primary-600/50 transition-colors">
@@ -245,7 +251,7 @@
                           <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
                         </svg>
                       </div>
-                      <span class="text-gray-200 text-sm">Accra, Ghana</span>
+                      <span class="text-gray-200 text-sm">Abelenkpe Taxi Rank, Alhaji Sulley Street, Accra, Ghana</span>
                     </div>
                   </div>
                 </div>
