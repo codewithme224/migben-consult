@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+/* Define custom CSS variables for our colors */
+:root {
+  --primary-50: #f0f9f4;
+  --primary-100: #dcf2e8;
+  --primary-200: #bce4d4;
+  --primary-300: #8dd0bb;
+  --primary-400: #57b49d;
+  --primary-500: #349983;
+  --primary-600: #267a6a;
+  --primary-700: #1f6355;
+  --primary-800: #1a4f44;
+  --primary-900: #164238;
+  --primary-950: #0a2420;
+  
+  --gold-50: #fefdf4;
+  --gold-100: #fef9e7;
+  --gold-200: #fdf2c4;
+  --gold-300: #fce896;
+  --gold-400: #f9d556;
+  --gold-500: #f6c029;
+  --gold-600: #e7a41b;
+  --gold-700: #c08217;
+  --gold-800: #9d6519;
+  --gold-900: #7f521a;
+  --gold-950: #4a2d0c;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans antialiased;
+    background-color: var(--primary-900);
+  }
+
+  * {
+    @apply scroll-smooth;
+  }
+}
+
+@layer components {
+  .glassmorphism {
+    @apply bg-white/10 backdrop-blur-md border border-white/20;
+  }
+  
+  .bg-primary-50 { background-color: var(--primary-50); }
+  .bg-primary-100 { background-color: var(--primary-100); }
+  .bg-primary-200 { background-color: var(--primary-200); }
+  .bg-primary-300 { background-color: var(--primary-300); }
+  .bg-primary-400 { background-color: var(--primary-400); }
+  .bg-primary-500 { background-color: var(--primary-500); }
+  .bg-primary-600 { background-color: var(--primary-600); }
+  .bg-primary-700 { background-color: var(--primary-700); }
+  .bg-primary-800 { background-color: var(--primary-800); }
+  .bg-primary-900 { background-color: var(--primary-900); }
+  .bg-primary-950 { background-color: var(--primary-950); }
+  
+  .text-primary-50 { color: var(--primary-50); }
+  .text-primary-100 { color: var(--primary-100); }
+  .text-primary-200 { color: var(--primary-200); }
+  .text-primary-300 { color: var(--primary-300); }
+  .text-primary-400 { color: var(--primary-400); }
+  .text-primary-500 { color: var(--primary-500); }
+  .text-primary-600 { color: var(--primary-600); }
+  .text-primary-700 { color: var(--primary-700); }
+  .text-primary-800 { color: var(--primary-800); }
+  .text-primary-900 { color: var(--primary-900); }
+  .text-primary-950 { color: var(--primary-950); }
+  
+  .bg-gold-50 { background-color: var(--gold-50); }
+  .bg-gold-100 { background-color: var(--gold-100); }
+  .bg-gold-200 { background-color: var(--gold-200); }
+  .bg-gold-300 { background-color: var(--gold-300); }
+  .bg-gold-400 { background-color: var(--gold-400); }
+  .bg-gold-500 { background-color: var(--gold-500); }
+  .bg-gold-600 { background-color: var(--gold-600); }
+  .bg-gold-700 { background-color: var(--gold-700); }
+  .bg-gold-800 { background-color: var(--gold-800); }
+  .bg-gold-900 { background-color: var(--gold-900); }
+  .bg-gold-950 { background-color: var(--gold-950); }
+  
+  .text-gold-50 { color: var(--gold-50); }
+  .text-gold-100 { color: var(--gold-100); }
+  .text-gold-200 { color: var(--gold-200); }
+  .text-gold-300 { color: var(--gold-300); }
+  .text-gold-400 { color: var(--gold-400); }
+  .text-gold-500 { color: var(--gold-500); }
+  .text-gold-600 { color: var(--gold-600); }
+  .text-gold-700 { color: var(--gold-700); }
+  .text-gold-800 { color: var(--gold-800); }
+  .text-gold-900 { color: var(--gold-900); }
+  .text-gold-950 { color: var(--gold-950); }
+  
+  .bg-gold-gradient {
+    background: linear-gradient(135deg, var(--gold-500) 0%, var(--gold-600) 50%, var(--gold-700) 100%);
+  }
+  
+  .bg-dark-gradient {
+    background: linear-gradient(135deg, var(--primary-950) 0%, var(--primary-900) 50%, var(--primary-700) 100%);
+  }
+  
+  .nav-border-gradient {
+    background: 
+      linear-gradient(var(--primary-900), var(--primary-900)) padding-box,
+      linear-gradient(135deg, var(--gold-500), var(--gold-600), var(--gold-700)) border-box;
+    border: 2px solid transparent;
+    border-radius: 1rem;
+  }
+  
+  .logo-visible {
+    filter: brightness(1.2) contrast(1.1);
+  }
+  
+  .shadow-3xl {
+    box-shadow: 0 35px 60px -12px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.05);
+  }
+  
+  .nav-pill {
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 
+      0 8px 32px rgba(0, 0, 0, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      0 0 0 1px rgba(246, 192, 41, 0.2);
+  }
+}
