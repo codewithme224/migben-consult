@@ -73,10 +73,7 @@
           <div class="p-10 bg-gradient-to-br rounded-3xl border backdrop-blur-md transition-all duration-500 transform group from-white/15 to-white/5 border-white/30 hover:bg-white/20 hover:-translate-y-3 hover:shadow-2xl">
             <div class="text-center">
               <div class="flex justify-center items-center mx-auto mb-8 w-28 h-28 rounded-3xl shadow-xl transition-transform duration-300 bg-gold-gradient group-hover:scale-110">
-                <svg class="w-14 h-14 text-primary-900" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M4 4a2 2 0 00-2 2v1h16V6a2 2 0 00-2-2H4z"/>
-                  <path fill-rule="evenodd" d="M18 9H2v5a2 2 0 002 2h12a2 2 0 002-2V9zM4 13a1 1 0 011-1h1a1 1 0 110 2H5a1 1 0 01-1-1zm5-1a1 1 0 100 2h1a1 1 0 100-2H9z" clip-rule="evenodd"/>
-                </svg>
+                <img src="/images/partners/kapex.jpeg" alt="Kapex Commodities" class="object-contain w-full h-full" />
               </div>
               <h4 class="mb-4 text-3xl font-bold text-white">Kapex Commodities</h4>
               <p class="mb-6 text-lg leading-relaxed text-gray-200">Leading commodity trading and agricultural export solutions across West African markets</p>
