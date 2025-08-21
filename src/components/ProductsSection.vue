@@ -146,7 +146,7 @@
       <!-- Additional Products -->
       <div class="mb-16">
         <h3 class="mb-8 text-2xl font-bold text-center text-white">Additional Products</h3>
-        <div class="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-6">
+        <div class="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-7">
           <div class="p-4 text-center rounded-lg backdrop-blur-sm transition-colors duration-300 bg-white/10 hover:bg-white/20">
             <div class="mb-1 text-sm font-semibold text-gold-400">Sugar</div>
             <div class="text-xs text-gray-300">ICUMSA 45</div>
@@ -170,6 +170,10 @@
           <div class="p-4 text-center rounded-lg backdrop-blur-sm transition-colors duration-300 bg-white/10 hover:bg-white/20">
             <div class="mb-1 text-sm font-semibold text-gold-400">Marine Fuel</div>
             <div class="text-xs text-gray-300">High Quality</div>
+          </div>
+          <div class="p-4 text-center rounded-lg backdrop-blur-sm transition-colors duration-300 bg-white/10 hover:bg-white/20">
+            <div class="mb-1 text-sm font-semibold text-gold-400">Fertilizer</div>
+            <div class="text-xs text-gray-300">NPK & Organic</div>
           </div>
         </div>
       </div>
