@@ -130,7 +130,7 @@
                         </div>
                         <span class="font-medium text-white">Location</span>
                       </div>
-                      <p class="text-sm text-gray-300">Ghana / South Africa</p>
+                      <p class="text-sm text-gray-300">South Africa / Ghana</p>
                     </div>
                   </div>
                 </div>
@@ -155,7 +155,7 @@
                   <div class="flex absolute inset-0 justify-center items-center opacity-0 backdrop-blur-sm transition-all duration-300 bg-primary-900/95 group-hover:opacity-100">
                     <div class="text-center transition-transform duration-300 transform translate-y-4 group-hover:translate-y-0">
                       <h4 class="mb-2 text-2xl font-bold text-white drop-shadow-lg">Mignon Ofori Andoh</h4>
-                      <p class="text-lg font-semibold text-gold-400">Director</p>
+                      <p class="text-lg font-semibold text-gold-400">Director - South Africa</p>
                     </div>
                   </div>
                   
@@ -213,7 +213,7 @@
                   <div class="flex absolute inset-0 justify-center items-center opacity-0 backdrop-blur-sm transition-all duration-300 bg-primary-900/95 group-hover:opacity-100">
                     <div class="text-center transition-transform duration-300 transform translate-y-4 group-hover:translate-y-0">
                       <h4 class="mb-2 text-2xl font-bold text-white drop-shadow-lg">Robert Currie Opoku</h4>
-                      <p class="text-lg font-semibold text-gold-400">Director</p>
+                      <p class="text-lg font-semibold text-gold-400">Director - Ghana</p>
                     </div>
                   </div>
                   
